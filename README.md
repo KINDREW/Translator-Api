@@ -6,7 +6,7 @@ The model t5 base is a Natural Language Processing (NLP) Model implemented in Tr
 For more information about the model, visit https://huggingface.co/t5-base
 
 # Installation
-Fork the project at https://github.com/Emmanuel-Okyere/shoppharma.git
+Fork the project at https://github.com/KINDREW/Translator-Api.git
 ```sh
   ├── README.md
   ├── pyproject.toml *** the package manager. 
